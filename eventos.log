@@ -1,0 +1,28 @@
+2026-11-17 13:48:24,489 - INFO - Modulo de servicios especializado cargado correctamente.
+2026-11-17 13:48:24,505 - INFO - Cliente registrado: Laura Martinez
+2026-11-17 13:48:24,506 - ERROR - El nombre debe tener al menos 3 caracteres.
+2026-11-17 13:48:24,509 - ERROR - El precio base debe ser mayor que cero.
+2026-11-17 13:48:24,511 - INFO - Reserva R001 creada correctamente.
+2026-11-17 13:48:24,512 - INFO - Reserva R001 confirmada.
+2026-11-17 13:48:24,513 - INFO - Reserva R001 procesada. Total: $160,650.00
+2026-11-17 13:48:24,514 - INFO - Finalizacion del intento de procesamiento de reserva R001.
+2026-11-17 13:48:24,515 - INFO - Reserva R002 creada correctamente.
+2026-11-17 13:48:24,516 - INFO - Reserva R002 cancelada.
+2026-11-17 13:48:24,516 - ERROR - El servicio Asesoria en programacion no esta disponible.
+2026-11-17 13:48:24,518 - ERROR - El descuento debe estar entre 0 y 100.
+2026-11-17 13:48:24,523 - ERROR - No se encontro la reserva R999.
+2026-11-17 13:48:24,545 - INFO - Ejecucion del sistema finalizada correctamente.
+2026-11-17 13:51:57,129 - INFO - Modulo de servicios especializado cargado correctamente.
+2026-11-17 13:51:57,131 - INFO - Cliente registrado: Laura Martinez
+2026-11-17 13:51:57,132 - ERROR - El nombre debe tener al menos 3 caracteres.
+2026-11-17 13:51:57,133 - ERROR - El precio base debe ser mayor que cero.
+2026-11-17 13:51:57,133 - INFO - Reserva R001 creada correctamente.
+2026-11-17 13:51:57,134 - INFO - Reserva R001 confirmada.
+2026-11-17 13:51:57,134 - INFO - Reserva R001 procesada. Total: $160,650.00
+2026-11-17 13:51:57,134 - INFO - Finalizacion del intento de procesamiento de reserva R001.
+2026-11-17 13:51:57,134 - INFO - Reserva R002 creada correctamente.
+2026-11-17 13:51:57,134 - INFO - Reserva R002 cancelada.
+2026-11-17 13:51:57,135 - ERROR - El servicio Asesoria en programacion no esta disponible.
+2026-11-17 13:51:57,135 - ERROR - El descuento debe estar entre 0 y 100.
+2026-11-17 13:51:57,135 - ERROR - No se encontro la reserva R999.
+2026-11-17 13:51:57,136 - INFO - Ejecucion del sistema finalizada correctamente.
